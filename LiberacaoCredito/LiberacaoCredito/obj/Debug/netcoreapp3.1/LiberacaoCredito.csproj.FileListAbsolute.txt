@@ -1,0 +1,13 @@
+D:\Projetos\C#\TesteSafra\LiberacaoCredito\LiberacaoCredito\bin\Debug\netcoreapp3.1\LiberacaoCredito.exe
+D:\Projetos\C#\TesteSafra\LiberacaoCredito\LiberacaoCredito\bin\Debug\netcoreapp3.1\LiberacaoCredito.deps.json
+D:\Projetos\C#\TesteSafra\LiberacaoCredito\LiberacaoCredito\bin\Debug\netcoreapp3.1\LiberacaoCredito.runtimeconfig.json
+D:\Projetos\C#\TesteSafra\LiberacaoCredito\LiberacaoCredito\bin\Debug\netcoreapp3.1\LiberacaoCredito.runtimeconfig.dev.json
+D:\Projetos\C#\TesteSafra\LiberacaoCredito\LiberacaoCredito\bin\Debug\netcoreapp3.1\LiberacaoCredito.dll
+D:\Projetos\C#\TesteSafra\LiberacaoCredito\LiberacaoCredito\bin\Debug\netcoreapp3.1\LiberacaoCredito.pdb
+D:\Projetos\C#\TesteSafra\LiberacaoCredito\LiberacaoCredito\obj\Debug\netcoreapp3.1\LiberacaoCredito.csprojAssemblyReference.cache
+D:\Projetos\C#\TesteSafra\LiberacaoCredito\LiberacaoCredito\obj\Debug\netcoreapp3.1\LiberacaoCredito.AssemblyInfoInputs.cache
+D:\Projetos\C#\TesteSafra\LiberacaoCredito\LiberacaoCredito\obj\Debug\netcoreapp3.1\LiberacaoCredito.AssemblyInfo.cs
+D:\Projetos\C#\TesteSafra\LiberacaoCredito\LiberacaoCredito\obj\Debug\netcoreapp3.1\LiberacaoCredito.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\TesteSafra\LiberacaoCredito\LiberacaoCredito\obj\Debug\netcoreapp3.1\LiberacaoCredito.dll
+D:\Projetos\C#\TesteSafra\LiberacaoCredito\LiberacaoCredito\obj\Debug\netcoreapp3.1\LiberacaoCredito.pdb
+D:\Projetos\C#\TesteSafra\LiberacaoCredito\LiberacaoCredito\obj\Debug\netcoreapp3.1\LiberacaoCredito.genruntimeconfig.cache
